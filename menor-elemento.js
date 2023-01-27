@@ -1,4 +1,4 @@
-let num = [0,2,1,1];
+let num = [0,2,1,4];
 let i = 0;
 let sum = 0;
 
