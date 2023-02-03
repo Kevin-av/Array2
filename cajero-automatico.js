@@ -1,9 +1,11 @@
+/*Se debe primero crear los datos que se han de usar*/
 let contraseña = 456;
 let monto = 45;
 let saldo = 540;
 let retiro = false;
 let respuesta;
 
+/*Aplicar las variables*/
 do {
     contraseña = prompt ("Favor de ingresar la contraseña");
 
