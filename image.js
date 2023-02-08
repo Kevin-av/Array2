@@ -9,4 +9,10 @@ for(let i=0; i<url.length; i++){
 
 }
 
+for(let i=0; i<url.length; i++){
+
+let result = url.substring(30,65);
+
+}
+
 doc.src=`https://drive.google.com/uc?export=view&id=${url}`;
